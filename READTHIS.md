@@ -8,4 +8,5 @@ This is a fully functional clicker simulator for Roblox, compressed into a singl
 ### How to use:
 1. Open Roblox Studio.
 2. Create a `LocalScript` inside `StarterGui`.
-3. Paste the code from `MainScript.lua`.
+
+3. Paste the code from `StarterGui-LocalScript.lua`.
