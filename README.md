@@ -1,4 +1,4 @@
-# Roblox Simulator with ONLY 1 Line of Code 🚀
+# Roblox Clicker Simulator with ONLY 1 Line of Code 🚀
 This is a fully functional clicker simulator for Roblox, compressed into a single line of Luau code.
 
 ### Features:
@@ -10,3 +10,4 @@ This is a fully functional clicker simulator for Roblox, compressed into a singl
 2. Create a `LocalScript` inside `StarterGui`.
 
 3. Paste the code from `script.lua`.
+
